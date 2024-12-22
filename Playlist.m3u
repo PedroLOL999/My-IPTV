@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1, McDonald's Channel - McDonald's Channel
+#EXTINF:1, McDonald's Channel - McDonald's Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/548px-McDonald%27s_Golden_Arches.svg.png/" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="
 https://static.wikitide.net/companyballwikiwiki/1/17/McDonaldBall.png
 
 #EXTINF:2, BK TV - BK TV
